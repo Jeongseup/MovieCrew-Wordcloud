@@ -6,9 +6,12 @@
 - 프로젝트 명 : 무비크루's 워드클라우드 만들기
 - 프로젝트 기간 : X
 
+<br>
+
 ## 미니 프로젝트 목적 및 설명
 본 프로젝트는 맥도날드 알바생들끼리 만든 영화 소모임 'Movie Crew'에서 활동한 데이터들을 기념하기 위해 만든 개인 프로젝트입니다. 약 1년 동안 영화 소모임을 하면서 나누었던 이야기들을 한 데 모아 자연어 처리 이후 영화 아이콘에 맞게 워드클라우딩 합니다.
 
+<br>
 
 ## 미니 프로젝트 세부 수행과정
 본 프로젝트는 [konlpy](https://konlpy.org/ko/latest/)와 [wordcloud](https://amueller.github.io/word_cloud/) library를 사용하여 만들었습니다. 수행과정은 다음과 같습니다.
@@ -22,10 +25,10 @@
 
 자세한 설명은 [코드](./wordcloud.ipynb)를 확인해주시면 됩니다.
 
-___
+<br>
 
 ## 미니 프로젝트 결과
 <div align='center'>
-    <img style="width:60%;" src="./result.png">
+    <img style="width:20rem;" src="./result.png">
     <p>MovieCrew's Wordcloud</p>
 </div>
