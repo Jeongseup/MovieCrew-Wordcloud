@@ -32,3 +32,12 @@
     <img style="width:20rem;" src="./result.png">
     <p>MovieCrew's Wordcloud</p>
 </div>
+
+### 참고자료
+[Wordcloud 참고자료](https://lovit.github.io/nlp/2018/04/17/word_cloud/)
+
+[한국어 자연어처리 참고자료](https://mkjjo.github.io/python/2019/07/09/korean_preprocessing.html)
+
+[ModuleNotFoundError: No module named 'wordcloud.query_integral_image' 솔루션](https://github.com/amueller/word_cloud/issues/491)
+
+[konlpy jpype error 솔루션](https://daewonyoon.tistory.com/386)
