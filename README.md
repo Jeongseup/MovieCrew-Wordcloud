@@ -11,7 +11,7 @@
 
 
 ## 미니 프로젝트 세부 수행과정
-본 프로젝트는 konlpy와 wordcloud library를 사용하여 만들었습니다. 수행과정은 다음과 같습니다.
+본 프로젝트는 [konlpy](https://konlpy.org/ko/latest/)와 [wordcloud](https://amueller.github.io/word_cloud/) library를 사용하여 만들었습니다. 수행과정은 다음과 같습니다.
 
 1. 무비크루 모임에서 나눴던 이야기들을 따로 MS word로 저장한 파일을 불러와 텍스트만을 추출합니다.
 2. 특수문자 및 오타와 같은 것들을 제거하기 위해 데이터를 parsing 합니다.
@@ -20,5 +20,12 @@
 5. 원하는 영화 이모티콘 형태의 워드클라우드 mask를 만들기 위해 영화 아이콘 이미지를 불러온 뒤 전처리합니다.
 6. 적절한 파라미터를 통해, 워드클라우드를 생성 후 저장합니다.
 
+자세한 설명은 [코드](./wordcloud.ipynb)를 확인해주시면 됩니다.
+
+___
+
 ## 미니 프로젝트 결과
-![wordcloud](./result.png){: width="60%"}
+<div align='center'>
+    <img style="width:60%;" src="./result.png">
+    <p>MovieCrew's Wordcloud</p>
+</div>
